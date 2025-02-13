@@ -4,7 +4,7 @@ This project contains custom scripts for use with `yt-dlp`, a tool for downloadi
 
 ## Install FFmpeg
 
-Windows: Download from https://ffmpeg.org and add it to the PATH
+Windows: Download from https://ffmpeg.org/download.html and add it to the PATH
 
 Linux:
 ```bash
