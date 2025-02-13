@@ -9,14 +9,16 @@ Windows: Download from https://ffmpeg.org and add it to the PATH
 Linux:
 ```bash
 sudo apt install ffmpeg
+```
 
 Mac: 
 ```bash
 brew install ffmpeg
-
+```
 ## Installation
 
 To install the necessary dependencies, run:
 
 ```bash
 pip install -r requirements.txt
+```
