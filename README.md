@@ -6,9 +6,13 @@ This project contains custom scripts for use with `yt-dlp`, a tool for downloadi
 
 Windows: Download from https://ffmpeg.org and add it to the PATH
 
-Linux: sudo apt install ffmpeg
+Linux:
+```bash
+sudo apt install ffmpeg
 
-Mac: brew install ffmpeg
+Mac: 
+```bash
+brew install ffmpeg
 
 ## Installation
 
